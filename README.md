@@ -3,3 +3,6 @@
 
 Wing of Steel is a realistic flight simulator demo.
 Currently working on Missile targeting system will be available in the next release.
+
+# Video
+https://www.youtube.com/watch?v=VKVgAmpCTGw
