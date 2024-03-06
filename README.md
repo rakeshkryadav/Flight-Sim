@@ -6,3 +6,6 @@ Currently working on Missile targeting system will be available in the next rele
 
 # Video
 https://www.youtube.com/watch?v=VKVgAmpCTGw
+Press F to launch missile
+there are some bug I need to fix in the missile system.
+![](https://github.com/rakeshkryadav/Flight-Sim/blob/main/Missle%20Test.mp4)
