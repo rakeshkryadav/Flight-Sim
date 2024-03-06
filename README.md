@@ -6,7 +6,8 @@ Currently working on Missile targeting system will be available in the next rele
 
 # Video
 https://www.youtube.com/watch?v=VKVgAmpCTGw
+
 Press F to launch missile
-there are some bug I need to fix in the missile system.
+
 [Missile Test Video]
 https://www.linkedin.com/feed/update/urn:li:activity:7169949535882993664/
